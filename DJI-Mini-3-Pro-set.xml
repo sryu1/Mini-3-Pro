@@ -24,7 +24,10 @@
     <urls>
       <code-repository>https://github.com/sryu1/Mini-3-Pro</code-repository>
     </urls>
-    <flight-model>jsbsim</flight-model>
+    <flight-model>jsb</flight-model>
     <aero>Systems/DJI-Mini-3-Pro-fdm</aero>
+    <model>
+      <path>Models/DJI-Mini-3-Pro</path>
+    </model>
   </sim>
 </PropertyList>
